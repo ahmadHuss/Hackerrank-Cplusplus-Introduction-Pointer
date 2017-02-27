@@ -1,2 +1,2 @@
 #### Problem Link
-<a href="https://www.hackerrank.com/challenges/tutorial-intro" target="_blank">Link</a>
+<a href="https://www.hackerrank.com/challenges/c-tutorial-pointer" target="_blank">Link</a>
